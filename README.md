@@ -297,12 +297,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Cybersecurity** certification programs
 - **Information Systems** security tracks
 
-## 📞 Support
-
-- **Issues:** [GitHub Issues](https://github.com/yourusername/forensic-disk-populator/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/forensic-disk-populator/discussions)
-- **Email:** forensic-tools@example.com
-
 ---
 
 **⭐ If this tool helps your forensic training, please give it a star!**
