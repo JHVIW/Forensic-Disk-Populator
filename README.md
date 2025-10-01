@@ -261,7 +261,7 @@ We welcome contributions! Please see our contributing guidelines:
 ### Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/forensic-disk-populator.git
+git clone https://github.com/JHVIW/forensic-disk-populator.git
 
 # Install development dependencies
 pip install -r requirements-dev.txt
@@ -276,26 +276,6 @@ black mega_disk_populator.py
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Lorem Picsum** for providing sample images
-- **Digital forensics community** for inspiration and feedback
-- **Academic institutions** using this tool for education
-- **Open source contributors** making this project better
-
-## 📚 Educational Resources
-
-### Learning Digital Forensics
-- **[SANS Digital Forensics](https://www.sans.org/cyber-security-courses/digital-forensics/)** - Professional training
-- **[Cybrary](https://www.cybrary.it/)** - Free cybersecurity courses
-- **[Digital Forensics Association](https://www.digitalforensicsassociation.org/)** - Professional organization
-
-### Academic Programs
-- **Computer Science** with cybersecurity focus
-- **Digital Forensics** specialized degrees
-- **Cybersecurity** certification programs
-- **Information Systems** security tracks
 
 ---
 
